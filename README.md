@@ -10,4 +10,4 @@ Soy una programadora junior que desde joven ha sentido pasíon por el mundo del 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NereaCassian&repo=RatBot)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NereaCassian&repo=Judy_Alvarez_Bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NereaCassian&repo=habitica-discord-bot)](https://github.com/anuraghazra/github-readme-stats)
